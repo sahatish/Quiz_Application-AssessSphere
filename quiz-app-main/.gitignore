@@ -1,0 +1,24 @@
+# Java / Spring Boot target
+quiz-backend/target/
+quiz-backend/.mvn/
+quiz-backend/.metadata
+quiz-backend/.classpath
+quiz-backend/.project
+quiz-backend/.settings/
+
+# Frontend Node modules & builds
+quiz-frontend/node_modules/
+quiz-frontend/dist/
+quiz-frontend/.env*
+
+# OS / Editor temporary files
+.idea/
+.vscode/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
